@@ -4,6 +4,62 @@
 Includes the most important extensions to get you started with PHP development in Visual Studio Code
 
 
+#### Shortcuts
+
+    Command Mode = Ctrl + Shift + p 
+    Focuses on Explorer = ctrl + 0
+    Move Selected Lines = alt + up / down
+    Hide tree view = Ctrl + B 
+
+    Explorer  = Ctrl + shift + E
+    Version Control (Git)  = Ctrl + shift + v
+    Search = Ctrl + shift + f 
+    Debugger = ctrl + shift + d
+    Extensions  = Ctrl + shift + x
+
+    Key Binding  = Ctrl + K + S 
+    Setting = Ctrl + ,  
+    Terminal = Ctrl + ~ 
+    Go to Line = ctrl + G  | ctrl + p ---> type :
+    Split Screen = Ctrl+\   (switch between them ctrl+1 , ctrl+2 , ...)
+
+    Select current line = Ctrl+L
+    Select All Occurrences of selected word = crtl + shift + L
+    Select Match To Selected Text = Ctrl + d (for next one one again press ctrl + d)
+    Multiple Cursor: alt + mouse left
+
+    Next or Previous Method or Tag = ctrl + up arrow key Or down arrow key
+    File All References = alt + shift + F12
+    Go to Symbol in File = ctrl + shift + O  | | ctrl + p ---> type @
+    Go to Symbol in Workspace = Ctrl + T
+    Go to Implementation = ctrl + F12
+    Peek = shift + F12
+
+    Expand Selection =  Shift+Alt+Left or Shift+Alt+Right
+    Code Folding = Ctrl+Shift+[ OR  Ctrl+Shift+]
+    Line Height = crtl + ,  ---> search for line Height then -----> set to 40
+    Open Markdown preview = Ctrl + Shift + V
+
+    Duplicate Line Up = Ctrl + Alt + Shift + 8
+    Duplicate Line Down : Ctrl + Alt + Shift + 2
+    Delete Line: Ctrl + Shift + K 
+
+    Code Formatting:
+        Ubuntu = Ctrl + Shift + I
+        Windows = Shift + Alt + F
+        MacOS = Shift + Option + 
+
+    Change Workspace = ctrl + r    
+
+    List of all files open in an editor group: ctrl + tab
+    Focus Breadcrumbs =  ctrl + shift + . 
+    Bracket matching = Ctrl + Shift + \
+    Switch to previous open file = ctrl + p + ctrl + p
+    Open Reference = ctrl + shift + mouse left
+    Goto Previous Edit point = ctrl + alt + -
+    Shrink/expand selection = Shift+Alt+Right or Shift+Alt+LEFT
+    Column (box) selection = Place the cursor in one corner and then hold Shift+Alt while dragging to the opposite corner
+
 #### user settings
 
 ```json
