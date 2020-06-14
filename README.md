@@ -162,6 +162,7 @@ Includes the most important extensions to get you started with PHP development i
             "push:command"
         ],
         "gitlens.views.repositories.files.layout": "tree",
+        "scm.diffDecorations": "gutter"
     }
 
 ```    
